@@ -17,3 +17,6 @@
 * https://developers.yubico.com/Software_Projects/WebAuthn-FIDO2/WebAuthn-FIDO2_Server_Libraries/
 * https://github.com/duo-labs/webauthn
 * https://github.com/duo-labs/py_webauthn
+
+# Code
+* https://github.com/wireapp/haskell-fido2
