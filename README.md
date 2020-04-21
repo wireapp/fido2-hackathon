@@ -2,7 +2,7 @@
 Disclaimer: This hackathon will be organised by @arianvp  on personal initiative and 20% time. For now this document
 is no active indication of any concrete roadmap by the company. Results of this hackathon are not an official Wire product at this point.
 
-The goal of this hackathon is to research and explore secure methods of two-factor authentication that fit with Wire's goal to protect Digital Assets and promote Zero Trust
+The goal of this hackathon is to research and explore secure methods of two-factor authentication that fit with Wire's goal to protect Digital Assets and promote [Zero Trust](https://gcn.com/articles/2020/04/20/zero-trust-infrastructure.aspx)
 
 Two methods of authentication will be explored.  TOTP codes and https://www.w3.org/TR/webauthn/
 
