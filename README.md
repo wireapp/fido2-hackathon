@@ -7,7 +7,6 @@ The goal of this hackathon is to research and explore secure methods of two-fact
 * https://webauthn.me
 * https://github.com/google/virtual-authenticators-tab
 
-
 ## Guides & Tutorials
 * https://webauthn.guide
 * https://developers.yubico.com/WebAuthn/WebAuthn_Developer_Guide/
@@ -20,5 +19,8 @@ The goal of this hackathon is to research and explore secure methods of two-fact
 * https://github.com/duo-labs/webauthn
 * https://github.com/duo-labs/py_webauthn
 
-# Code
+## Code
 * https://github.com/wireapp/haskell-fido2
+
+## Also
+* https://cheatsheetseries.owasp.org/cheatsheets/Multifactor_Authentication_Cheat_Sheet.html
