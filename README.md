@@ -22,13 +22,13 @@ Two factor for now.
 * According to Microsoft 2FA reduces 99.9% of attacks on accounts https://www.microsoft.com/security/blog/2019/08/20/one-simple-action-you-can-take-to-prevent-99-9-percent-of-account-attacks/
 * According to Google hardware tokens made their company more secure and completely removed succesful phishing attacks https://research.google/pubs/pub45409/
 * Unlike TOTP, FIDO2 makes phishing attacks cryptographically impossible
-* Though we offer SSO support, and this has been our way to roll our 2FA to teams customers, team admins will still want heightend protection of their accounts. Security is only as strong as its weakest link
+* Though we offer SSO support, and this has been our way to roll out 2FA to teams customers, team admins will still want heightend protection of their accounts. Security is only as strong as its weakest link
 
 ## The plan
 @arianvp has been working quietly on the backend side of things in https://github.com/wireapp/haskell-fido2 
 Once this library is ready for use and integrated with https://github.com/wireapp/wire-server he would love to organise
 a hackathon with (one of) the client teams to do an end-to-end implementation of both TOTP and FIDO2/Webauthn support.
-I good candidate would probably be the Web team, as webauthn support is directly built into browsers. 
+a good candidate would probably be the Web team, as webauthn support is directly built into browsers. 
 
 For now however, plan is to keep working on the backend libraries for this as this is still in early stage.
 This place serves as a collection of notes on 2FA support for myself
