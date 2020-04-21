@@ -1,4 +1,6 @@
-# Links
+# FIDO2 Hackathon
+The goal of this hackathon is to research and explore secure methods of two-factor authentication that fit with Wire's goal to protect Digital Assets and promote Zero Trust
+
 
 ## Testing and debugging tools
 * https://webauthn.io
