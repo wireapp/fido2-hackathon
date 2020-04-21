@@ -30,6 +30,9 @@ Once this library is ready for use and integrated with https://github.com/wireap
 a hackathon with (one of) the client teams to do an end-to-end implementation of both TOTP and FIDO2/Webauthn support.
 I good candidate would probably be the Web team, as webauthn support is directly built into browsers. 
 
+For now however, plan is to keep working on the backend libraries for this as this is still in early stage.
+This place serves as a collection of notes on 2FA support for myself
+
 ## Testing and debugging tools
 * https://webauthn.io
 * https://webauthn.me
