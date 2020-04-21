@@ -21,7 +21,7 @@ Two factor for now.
 * Specifically people have been asking for Webauthn support given it is a widely-deployed standard in browsers now https://github.com/wireapp/wire/issues/85#issuecomment-481196915 https://github.com/wireapp/wire-webapp/issues/446#issuecomment-366453525
 * According to Microsoft 2FA reduces 99.9% of attacks on accounts https://www.microsoft.com/security/blog/2019/08/20/one-simple-action-you-can-take-to-prevent-99-9-percent-of-account-attacks/
 * According to Google hardware tokens made their company more secure and completely removed succesful phishing attacks https://research.google/pubs/pub45409/
-* Unlike TOTP, FIDO2 makes phishing attacks are cryptographically impossible
+* Unlike TOTP, FIDO2 makes phishing attacks cryptographically impossible
 * Though we offer SSO support, and this has been our way to roll our 2FA to teams customers, team admins will still want heightend protection of their accounts. Security is only as strong as its weakest link
 
 ## The plan
