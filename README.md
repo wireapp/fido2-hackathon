@@ -25,7 +25,7 @@ Two factor for now.
 * Though we offer SSO support, and this has been our way to roll out 2FA to teams customers, team admins will still want heightend protection of their accounts. Security is only as strong as its weakest link
 
 ## The plan
-@arianvp has been working quietly on the backend side of things in https://github.com/wireapp/haskell-fido2 
+@arianvp has been working quietly on the backend side of things in https://github.com/arianvp/haskell-fido2 
 Once this library is ready for use and integrated with https://github.com/wireapp/wire-server he would love to organise
 a hackathon with (one of) the client teams to do an end-to-end implementation of both TOTP and FIDO2/Webauthn support.
 a good candidate would probably be the Web team, as webauthn support is directly built into browsers. 
