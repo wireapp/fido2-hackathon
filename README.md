@@ -9,7 +9,7 @@ Two methods of authentication will be explored.  TOTP codes and https://www.w3.o
 TOTP codes are widely deployed and can be used with any phone that has Google Authenticator or similar installed.
 It works by temporary time-based codes that need to be entered on login. Downside of TOTP codes is that they're not resistent to sophisticated phishing attacks.
 
-FIDO2/Webauthn is a standard for authentiating with public key cryptography. Keys can be backed by platform or cross-platform authenticators. Meaning either the authenticator is built in to your device (Through a TPM) or it can be a separate dongle (like a Yubikey).
+FIDO2/Webauthn is a standard for authentiating with public key cryptography. Keys can be backed by platform or cross-platform authenticators. Meaning either the authenticator is built in to your device (Windows Hello, Apple TouchID, Apple FaceID, Android Fingerprint) or it can be a separate dongle (like a Yubikey).
 
 It can be used for both passwordless authentication and two factor authentication usecases. Though we'll focus on
 Two factor for now.
@@ -40,6 +40,8 @@ This place serves as a collection of notes on 2FA support for myself
 
 ## Guides & Tutorials
 * https://webauthn.guide
+* https://github.com/fido-alliance/how-to-fido/blob/master/HowToFIDO.md  <-- This explains the most common UI flows. very useful
+* https://webkit.org/blog/11312/meet-face-id-and-touch-id-for-the-web/
 * https://developers.yubico.com/WebAuthn/WebAuthn_Developer_Guide/
 * https://developers.yubico.com/WebAuthn/Libraries/Using_a_library.html
 * https://www.youtube.com/watch?v=yccBhpdJjJc
