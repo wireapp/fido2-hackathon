@@ -46,6 +46,7 @@ This place serves as a collection of notes on 2FA support for myself
 * https://developers.yubico.com/WebAuthn/Libraries/Using_a_library.html
 * https://www.youtube.com/watch?v=yccBhpdJjJc
 * https://developer.mozilla.org/en-US/docs/Web/API/Web_Authentication_API
+* https://medium.com/webauthnworks/webauthn-fido2-demystifying-attestation-and-mds-efc3b3cb3651
 
 ## Libraries
 * https://developers.yubico.com/Software_Projects/WebAuthn-FIDO2/WebAuthn-FIDO2_Server_Libraries/
